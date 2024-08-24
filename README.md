@@ -12,6 +12,26 @@ Pipewire is the newer kid on the block, trying to abstract/subsume the others af
 
 I had problems with SonicPI and bluetooth headphones. Need `qpwgraph` to manually connect the out from SonicPI to the bluetooth headphone if I want to use them.
 
+## MIDI
+
+
+## Plugins
+
+Used KXrepositories
+
 ### Tools
 
-* `qpwgraph`
+- `qpwgraph` - link pipewire audio in- and outputs
+- `alsamixer` - control ALSA levels
+- `qmidiroute` - to debug midi signals from your midi controller
+
+### My hardware to test
+
+- Laptop: Lenovo Yoga 370 (specs:)
+- Midi keyboard: AKAI MPK Mini Mk3
+
+## Resources
+
+### Heroes
+
+Sam Aaron, DJ Dave, unfa, ...
